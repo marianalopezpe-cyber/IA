@@ -1,0 +1,457 @@
+												PROMPT PAGINA MASCONECTADOS:
+
+1. 
+
+# MASConectados — Plataforma integral de servicios para mascotas
+
+Actúa como un equipo senior de Product Design, UX/UI y desarrollo Full Stack.
+
+Construye MASConectados, una plataforma digital profesional que conecta propietarios de mascotas con veterinarios, cuidadores, paseadores, tiendas, fundaciones y servicios especializados.
+
+No crear una landing page genérica. Construir una aplicación web modular, responsive, escalable y preparada para integrar inteligencia artificial.
+
+## 1. IDENTIDAD DE MARCA
+
+Nombre: MASConectados.
+
+Eslogan: Conectamos vidas, creamos bienestar.
+
+Personalidad: amigable, confiable, innovadora, cálida y profesional.
+
+### Logotipo
+
+Utilizar el nuevo concepto de logo aprobado:
+- Símbolo M orgánico y fluido.
+- Huella blanca integrada en el interior.
+- Degradado naranja vibrante.
+- Wordmark MASConectados.
+- MAS en carbón y Conectados en naranja.
+
+Si se proporciona el archivo gráfico del logo, utilizarlo como recurso principal y no redibujarlo. Preparar versiones horizontal, compacta e isotipo.
+
+No sustituir el logo por una huella genérica.
+
+## 2. SISTEMA VISUAL
+
+Paleta oficial:
+
+- Primary: #FF570A
+- Secondary: #FF7900
+- Accent: #FF9B45
+- Peach: #FFC078
+- Light Peach: #FFE5CC
+- Background: #FFF8F1
+- Text: #33251F
+- White: #FFFFFF
+
+Distribución visual:
+- 55% fondos crema.
+- 25% superficies blancas.
+- 12% textos y elementos carbón.
+- 8% naranja vibrante.
+
+El naranja debe destacar en botones, enlaces activos, iconos y elementos importantes, no cubrir toda la página.
+
+Tipografías:
+- Manrope ExtraBold para encabezados.
+- Manrope Bold para títulos.
+- DM Sans Regular para contenido.
+- DM Sans Medium para navegación y controles.
+
+Estética:
+Minimalista, premium, cálida, dinámica y amigable.
+
+Utilizar formas orgánicas fluidas, fotografías editoriales de mascotas, tarjetas redondeadas, sombras suaves y espacios amplios.
+
+Evitar diseños infantiles, exceso de naranja, tonos marrones rojizos, verdes y componentes visualmente sobrecargados.
+
+## 3. ARQUITECTURA DE LA PLATAFORMA
+
+Crear los siguientes módulos:
+
+1. Inicio.
+2. Servicios.
+3. Cuidadores y paseadores.
+4. Veterinarios y clínicas.
+5. Marketplace.
+6. Adopciones.
+7. Asistente de inteligencia artificial.
+8. Mi cuenta y mis mascotas.
+
+Navegación principal:
+Inicio | Servicios | Cuidadores | Veterinarios | Marketplace | Adopciones | Asistente IA.
+
+Incluir acceso a iniciar sesión, registrarse y publicar servicios.
+
+## 4. PÁGINA DE INICIO
+
+Diseñar una homepage visualmente atractiva con:
+
+- Hero principal con fotografía de perros y gatos.
+- Título: "Todo lo que tu mascota necesita, en un solo lugar".
+- Subtítulo: "Encuentra profesionales, servicios y productos para darle a tu mascota el cuidado que merece".
+- Buscador con ubicación, categoría y fecha.
+- Categorías de servicios.
+- Cuidadores destacados.
+- Clínicas veterinarias.
+- Productos populares.
+- Mascotas en adopción.
+- Presentación del asistente IA.
+- Testimonios.
+- Footer completo.
+
+Utilizar Medellín y el Valle de Aburrá como ubicación inicial de demostración.
+
+## 5. MARKETPLACE DE SERVICIOS
+
+Crear un catálogo con filtros por:
+- Categoría.
+- Ubicación.
+- Precio.
+- Calificación.
+- Disponibilidad.
+- Tipo de mascota.
+
+Servicios:
+- Veterinaria.
+- Paseadores.
+- Cuidadores.
+- Hospedaje.
+- Guardería.
+- Peluquería.
+- Entrenamiento.
+
+Cada servicio tendrá una ficha detallada con fotografías, descripción, tarifas, disponibilidad, reseñas y solicitud de reserva.
+
+## 6. CUIDADORES
+
+Permitir que las personas se registren como cuidadores y publiquen sus servicios.
+
+Crear perfiles con:
+- Fotografía.
+- Nombre.
+- Presentación.
+- Experiencia.
+- Ubicación.
+- Servicios ofrecidos.
+- Tarifas en COP.
+- Disponibilidad.
+- Certificaciones.
+- Calificaciones.
+- Estado de verificación.
+
+Permitir enviar solicitudes de reserva y gestionar su estado.
+
+## 7. VETERINARIOS
+
+Crear directorio de profesionales y clínicas.
+
+Incluir especialidades, ubicación, horarios, tarifas, servicios y sistema de solicitud de citas.
+
+Distinguir claramente los profesionales verificados.
+
+## 8. MARKETPLACE DE PRODUCTOS
+
+Crear tienda digital con:
+- Alimentos.
+- Juguetes.
+- Accesorios.
+- Camas.
+- Higiene.
+- Snacks.
+
+Incluir búsqueda, filtros, ficha de producto, favoritos, carrito, resumen de compra e historial de pedidos.
+
+Preparar la arquitectura para integrar posteriormente una pasarela de pagos colombiana.
+
+## 9. ADOPCIONES
+
+Crear un módulo para fundaciones y refugios.
+
+Permitir publicar mascotas con fotografías, edad, especie, sexo, ubicación, descripción, información sanitaria y requisitos de adopción.
+
+Incluir filtros y formularios de postulación.
+
+## 10. ASISTENTE DE INTELIGENCIA ARTIFICIAL
+
+Crear un asistente conversacional que ayude a los usuarios con:
+- Orientación general sobre cuidado animal.
+- Alimentación.
+- Comportamiento.
+- Recomendaciones de servicios.
+- Búsqueda de cuidadores.
+- Sugerencias de productos.
+
+No emitir diagnósticos ni prescribir medicamentos. Recomendar atención veterinaria ante síntomas preocupantes.
+
+Preparar la integración con una API de IA mediante backend seguro.
+
+## 11. PERFIL DE MASCOTAS
+
+Permitir registrar varias mascotas por usuario.
+
+Campos:
+- Nombre.
+- Fotografía.
+- Especie.
+- Raza.
+- Edad.
+- Sexo.
+- Peso.
+- Alimentación.
+- Alergias.
+- Vacunas.
+- Historial veterinario.
+
+Incluir calendario de citas y recordatorios.
+
+## 12. USUARIOS Y ROLES
+
+Preparar los siguientes roles:
+
+- Propietario.
+- Cuidador.
+- Veterinario.
+- Vendedor.
+- Fundación.
+- Administrador.
+
+Cada rol debe tener permisos y panel de gestión adecuados.
+
+## 13. TECNOLOGÍA
+
+Utilizar:
+- React.
+- TypeScript.
+- Tailwind CSS.
+- Componentes reutilizables.
+- Supabase para autenticación y PostgreSQL.
+- Supabase Storage para imágenes.
+- Row Level Security para proteger información.
+
+Mantener una arquitectura modular y separar componentes, servicios y lógica de negocio.
+
+## 14. REQUISITOS DE CALIDAD
+
+- Diseño responsive.
+- Navegación funcional.
+- Formularios validados.
+- Estados de carga y error.
+- Mensajes de confirmación.
+- Componentes reutilizables.
+- Accesibilidad básica.
+- Seguridad de datos.
+- Código organizado.
+
+No crear botones decorativos sin acción.
+No simular pagos reales.
+No presentar datos ficticios como información verificada.
+No exponer claves API en el frontend.
+
+## 15. ORDEN DE IMPLEMENTACIÓN
+
+Debido a que el desarrollo será progresivo, comenzar con:
+
+FASE 1:
+- Sistema visual.
+- Logotipo.
+- Navegación.
+- Homepage responsive.
+- Componentes reutilizables.
+
+FASE 2:
+- Catálogo de servicios.
+- Cuidadores.
+- Veterinarios.
+- Marketplace.
+- Adopciones.
+
+FASE 3:
+- Autenticación.
+- Roles.
+- Base de datos.
+- Dashboards.
+- Reservas y solicitudes.
+
+FASE 4:
+- Asistente IA.
+- Integraciones.
+- Pruebas y optimización.
+
+IMPORTANTE:
+Implementar primero la FASE 1. No construir todos los módulos en una sola operación. Mantener el diseño y la arquitectura preparados para las siguientes fases.
+
+El objetivo es crear un producto digital con calidad de startup profesional, identidad propia y potencial de crecimiento comercial.
+
+==============================================================================================================================
+
+2. Refina la interfaz actual de MASConectados sin reconstruir la página ni modificar su identidad visual.
+
+    BUSCADOR PRINCIPAL
+
+Elimina completamente el campo de fecha y su icono de calendario.
+
+Mantén únicamente: ubicación, categoría de servicio y botón Buscar.
+
+Redistribuye proporcionalmente el espacio para conseguir una barra más compacta, equilibrada y limpia.
+
+Conserva el diseño responsive.
+
+    TARJETAS DE CUIDADORES
+
+Reduce aproximadamente un 20-25% el tamaño visual de las tarjetas actuales.
+
+Utiliza una distribución de 3 o 4 tarjetas por fila en escritorio, según el espacio disponible.
+
+Reduce la altura de las fotografías y los espacios internos.
+
+Mantén fotografías proporcionadas y consistentes.
+
+Conserva nombre, servicio, ubicación, calificación y precio.
+
+Alinea todos los elementos para conseguir tarjetas uniformes.
+
+Evita grandes espacios vacíos y tarjetas excesivamente altas.
+
+IMPORTANTE: conserva los colores oficiales, tipografías, logotipo, bordes redondeados y estética actual de MASConectados. No modifiques otras secciones ni elimines funcionalidades existentes.
+
+==================================================================================================================================
+
+3. 
+
+Convierte MASConectados en una aplicación web multipágina completamente navegable.
+
+IMPORTANTE: actualmente algunas rutas muestran mensajes de "próximamente". Reemplaza esas pantallas de espera por páginas reales.
+
+Crea y conecta estas rutas:
+
+/ → Inicio
+
+/servicios → Catálogo de servicios
+
+/cuidadores → Buscador y perfiles de cuidadores
+
+/veterinarios → Directorio veterinario
+
+/marketplace → Catálogo de productos
+
+/adopciones → Mascotas disponibles
+
+/mascotai → Asistente IA
+
+/login → Iniciar sesión
+
+/registro → Crear cuenta
+
+REQUISITOS:
+
+Todos los enlaces del menú deben navegar a su ruta correspondiente.
+
+El menú hamburguesa debe abrir y cerrar correctamente.
+
+Los botones de la homepage deben dirigir al módulo correspondiente.
+
+Cada página debe incluir contenido, imágenes, tarjetas y acciones relevantes.
+
+Todas las páginas deben tener navegación para regresar al inicio.
+
+Mantener el logo, colores, tipografías y diseño actual.
+
+Implementar navegación responsive.
+
+Evitar enlaces vacíos y páginas de "próximamente".
+
+Utiliza React Router o el sistema de rutas existente. Reutiliza componentes y conserva el código actual. No reconstruyas la homepage ni alteres su diseño.
+
+Implementa primero las rutas y navegación; después completa el contenido de cada módulo.
+
+====================================================================================================================================
+
+4. 
+
+URGENTE: Corrige el sistema de rutas de MASConectados.
+
+Actualmente todas las secciones muestran el mismo contenido del catálogo de servicios. Esto indica un problema de enrutamiento o reutilización incorrecta de componentes.
+
+Primero inspecciona las rutas, enlaces y componentes existentes. Después corrige:
+
+/ : Homepage.
+
+/servicios : Catálogo exclusivo de servicios.
+
+/cuidadores : Listado y perfiles de cuidadores.
+
+/veterinarios : Directorio de clínicas y veterinarios.
+
+/marketplace : Tienda de productos y carrito.
+
+/adopciones : Catálogo de mascotas en adopción.
+
+/mascotai : Interfaz del asistente IA.
+
+REQUISITOS:
+
+Cada ruta debe renderizar su propio componente y contenido.
+
+Corregir enlaces del menú y botones de navegación.
+
+Evitar que todas las rutas apunten al mismo componente.
+
+Mantener navegación mediante React Router o el router existente.
+
+Permitir navegar directamente a cada URL y actualizar el navegador sin errores.
+
+Implementar correctamente los enlaces para volver al inicio.
+
+No utilizar páginas genéricas como sustituto de los módulos.
+
+No modificar la identidad visual, logo, colores ni tipografías.
+
+IMPORTANTE: No reconstruyas el proyecto. Reutiliza los componentes existentes y modifica únicamente lo necesario para solucionar las rutas. Verifica que cada URL muestre contenido diferente.
+
+=======================================================================================================================================
+
+5.
+
+Mejora la homepage existente de MASConectados sin reconstruirla ni modificar su identidad visual.
+
+    CARRUSEL DE SERVICIOS Convierte las 7 categorías actuales en un carrusel horizontal funcional: Veterinaria, Paseadores, Cuidadores, Hospedaje, Guardería, Peluquería y Entrenamiento.
+
+Flechas de navegación.
+
+Indicadores de posición.
+
+Deslizamiento táctil en móvil.
+
+Movimiento suave.
+
+Tarjetas compactas y uniformes.
+
+Cada tarjeta debe dirigir a su categoría correspondiente.
+
+    MARKETPLACE Agrega una sección con fotografías, tarjetas de productos, precios y botón "Explorar tienda". Categorías: alimentación, juguetes, accesorios e higiene. Enlazar a /marketplace.
+
+    ADOPCIONES Agrega una sección emocional con fotografías de perros y gatos, tarjetas de mascotas, edad, ubicación y botón "Conocer mascota". Enlazar a /adopciones.
+
+    ASISTENTE DE BIENESTAR ANIMAL Crear una sección destacada con iconografía de IA, diseño orgánico y fondo durazno suave. Incluir el mensaje "Tu compañero inteligente para el bienestar de tu mascota". Agregar botón "Consultar asistente" que dirija a /mascotai.
+
+DISEÑO Mantener Manrope y DM Sans, logo oficial y paleta MASConectados. Usar fondos crema y blancos, naranja #FF570A solo en acentos y botones. Mantener fotografías editoriales, tarjetas redondeadas y formas orgánicas.
+
+Orden de secciones: servicios, cuidadores destacados, marketplace, adopciones y asistente de bienestar animal.
+
+IMPORTANTE: conservar todas las secciones actuales, no duplicarlas, implementar interacciones reales y mantener responsive. No crear páginas nuevas si las rutas ya existen. Reutilizar componentes y corregir únicamente lo necesario.
+
+===================================================================================================================================
+
+6. 
+
+Vamos actualizar el homepage, va a tener los siguientes cambios:
+
+    Primero revisa los enlaces del nav, que todos funcionen correctamente y lleven a sus paginas correspondientes.
+
+    El nav solo va a tener los siguientes enlaces fijos: Inicio, Servicios y Asistente IA. Los otros los vas a comprimir en una lista que van a estar en servicios (cada que preciones en el enlace de servicios, muestre la lista).
+
+    Se va a crear una nueva sesion de PQRs en el footer donde sera una sesion de quejas, reclamos entre otros
+
+
+
