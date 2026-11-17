@@ -1,0 +1,40 @@
+PROYECTO MASConectados
+Presentación y enlaces de acceso
+
+Nombre del proyecto:
+MASConectados
+
+Descripción:
+MASConectados es un proyecto digital desarrollado como parte del proceso formativo en Riwi. Su propósito es presentar una experiencia web orientada a conectar personas con servicios y recursos de interés para la comunidad. La propuesta se trabaja como una plataforma digital con una identidad visual propia y una navegación organizada.
+
+Publicación directa en Lovable:
+https://pixel-perfect-replay-98053.lovable.app/
+
+Repositorio del proyecto en GitHub:
+https://github.com/marianalopezpe-cyber/pixel-perfect-replay-98053
+
+Tecnologías y herramientas:
+- Lovable: herramienta utilizada para construir y publicar la aplicación web.
+- GitHub: repositorio para almacenar, versionar y gestionar el código fuente.
+- React, TypeScript y Vite: tecnologías incluidas en la estructura del proyecto.
+
+Descripción técnica:
+El proyecto cuenta con un repositorio público en GitHub y una versión publicada en Lovable para consultar la experiencia web directamente desde el navegador. Los cambios realizados en Lovable se sincronizan con el repositorio conectado.
+
+¿Cómo consultar el proyecto?
+1. Abrir el enlace de Lovable para visualizar la aplicación publicada.
+2. Abrir el enlace de GitHub para revisar los archivos y el código fuente.
+3. Para consultar la versión funcional, utilizar principalmente el enlace de Lovable.
+
+Enlaces:
+Aplicación publicada:
+https://pixel-perfect-replay-98053.lovable.app/
+
+Código fuente:
+https://github.com/marianalopezpe-cyber/pixel-perfect-replay-98053
+
+Autora:
+Sofía López
+
+Nota:
+Esta ficha presenta los enlaces de acceso y una descripción general del proyecto. Las funcionalidades específicas deben verificarse directamente en la aplicación publicada.

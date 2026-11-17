@@ -1,0 +1,24 @@
+# Algoritmo para ordenar tres números de menor a mayor
+
+# Solicitar los tres números al usuario
+A = int(input("Ingresa el primer número: "))
+B = int(input("Ingresa el segundo número: "))
+C = int(input("Ingresa el tercer número: "))
+
+print("\nNúmeros iniciales:", A, B, C)
+
+# Primera comparación: A y B
+if A > B:
+    A, B = B, A
+
+# Segunda comparación: B y C
+if B > C:
+    B, C = C, B
+
+# Tercera comparación: A y B
+if A > B:
+    A, B = B, A
+
+# Mostrar el resultado
+print("\nNúmeros ordenados de menor a mayor:")
+print(A, B, C)
